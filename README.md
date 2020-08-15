@@ -8,3 +8,6 @@
 
 # Learning action 2:
 ![](https://github.com/ninja3011/USB-Component-Tester/blob/master/arduino_resitanceByVoltageDivider.gif)
+
+# Learning action 3:
+![](https://github.com/ninja3011/USB-Component-Tester/blob/master/Arduino-Ohm-meter-using-transistors-as-switches.PNG)
